@@ -155,6 +155,9 @@
     <EmbeddedResource Include="Presentacion\ConsultaElementos.resx">
       <DependentUpon>ConsultaElementos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ConsultarRepartidores.resx">
+      <DependentUpon>ConsultarRepartidores.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\ConsultarTipos.resx">
       <DependentUpon>ConsultarTipos.cs</DependentUpon>
     </EmbeddedResource>
@@ -169,6 +172,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarMenu.resx">
       <DependentUpon>RegistrarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistrarRepartidores.resx">
+      <DependentUpon>RegistrarRepartidores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarTipo.resx">
       <DependentUpon>RegistrarTipo.cs</DependentUpon>

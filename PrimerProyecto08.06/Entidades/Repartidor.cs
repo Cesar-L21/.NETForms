@@ -20,6 +20,9 @@ namespace PrimerProyecto08._06.Entidades
         // Segundo apellido del repartidor
         public string SegundoApellido { get; set; }
 
+        // Segundo apellido del repartidor
+        public bool Activo { get; set; }
+
         // Fecha de nacimiento del repartidor (solo fecha, sin hora)
         public DateTime FechaNacimiento { get; set; }
 

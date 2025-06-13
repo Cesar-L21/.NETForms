@@ -30,3 +30,5 @@ C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerPr
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.CosultarArticulos.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultaClientes.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarClientes.resources
+C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarRepartidores.resources
+C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultarRepartidores.resources

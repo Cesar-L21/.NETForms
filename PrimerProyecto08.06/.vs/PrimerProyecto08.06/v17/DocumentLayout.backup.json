@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultarrepartidores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultarrepartidores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultarrepartidores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultarrepartidores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultarrepartidores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultarrepartidores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarRepartidores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ConsultarRepartidores.Designer.cs",
+              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.Designer.cs*",
+              "RelativeToolTip": "Presentacion\\ConsultarRepartidores.Designer.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:36:32.9Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaElementos.cs",
+              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultaElementos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ConsultaElementos.cs",
+              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultaElementos.cs",
+              "RelativeToolTip": "Presentacion\\ConsultaElementos.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAMwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:37:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultarRepartidores.cs",
+              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ConsultarRepartidores.cs",
+              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.cs*",
+              "RelativeToolTip": "Presentacion\\ConsultarRepartidores.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:33:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultarRepartidores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ConsultarRepartidores.cs",
+              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarRepartidores.cs [Design]*",
+              "RelativeToolTip": "Presentacion\\ConsultarRepartidores.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:33:32.222Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

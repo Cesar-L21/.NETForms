@@ -69,7 +69,7 @@ namespace PrimerProyecto08._06.Presentacion
 
         private void button4_Click(object sender, EventArgs e)
         {
-            var vistaConsultaRepartidores = new PrimerProyecto08._06.Presentacion.ConsultarRepartidores();
+            var vistaConsultaRepartidores = new PrimerProyecto08._06.Presentacion.ConsultarRepartidores(EntregasSA.logicaRepartido);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaConsultaRepartidores.FormClosed += (s, args) => this.Show();

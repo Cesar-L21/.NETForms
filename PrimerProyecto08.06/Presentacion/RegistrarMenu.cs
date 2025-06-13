@@ -74,7 +74,7 @@ namespace PrimerProyecto08._06.Presentacion
 
         private void button4_Click(object sender, EventArgs e)
         {
-            var vistaRepartidores = new PrimerProyecto08._06.Presentacion.RegistrarRepartidores();
+            var vistaRepartidores = new PrimerProyecto08._06.Presentacion.RegistrarRepartidores(VistaEntregas.logicaRepartido);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaRepartidores.FormClosed += (s, args) => this.Show();
