@@ -27,6 +27,8 @@ namespace PrimerProyecto08._06.Entidades
         // Cantidad de artículos solicitados
         public int Cantidad { get; set; }
 
+        public string Direccion { get; set; }
+
         // Total del pedido (se puede calcular automáticamente)
         public double Total => Cantidad * Articulo?.Valor ?? 0;
 
@@ -34,7 +36,7 @@ namespace PrimerProyecto08._06.Entidades
         public Pedido() { }
 
         // Constructor con parámetros
-        public Pedido(int id, Cliente cliente, Repartidor repartidor, Articulo articulo, DateTime fechaPedido, int cantidad)
+        public Pedido(int id, Cliente cliente, Repartidor repartidor, Articulo articulo, DateTime fechaPedido, int cantidad, string direccion)
         {
             Id = id;
             Cliente = cliente;
@@ -42,6 +44,7 @@ namespace PrimerProyecto08._06.Entidades
             Articulo = articulo;
             FechaPedido = fechaPedido;
             Cantidad = cantidad;
+            Direccion = direccion;
         }
     }
 

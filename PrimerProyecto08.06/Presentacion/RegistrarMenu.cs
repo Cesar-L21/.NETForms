@@ -88,7 +88,7 @@ namespace PrimerProyecto08._06.Presentacion
 
         private void button5_Click(object sender, EventArgs e)
         {
-            var vistaPedidos = new PrimerProyecto08._06.Presentacion.RegistroPedidos();
+            var vistaPedidos = new PrimerProyecto08._06.Presentacion.RegistroPedidos(VistaEntregas.logicaCliente,VistaEntregas.logicaRepartido,VistaEntregas.logicaArticulo);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaPedidos.FormClosed += (s, args) => this.Show();

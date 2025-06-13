@@ -1,5 +1,4 @@
 ﻿using PrimerProyecto08._06.Logica;
-using PrimerProyecto08._06.LogicaDeNegocio;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

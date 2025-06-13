@@ -60,6 +60,7 @@
     <Compile Include="Entidades\TipoArticulo.cs" />
     <Compile Include="LogicaDeNegocio\LogicaArticulo.cs" />
     <Compile Include="LogicaDeNegocio\LogicaCliente.cs" />
+    <Compile Include="LogicaDeNegocio\LogicaDetalle.cs" />
     <Compile Include="LogicaDeNegocio\LogicaPedido.cs" />
     <Compile Include="LogicaDeNegocio\LogicaRepartidor.cs" />
     <Compile Include="LogicaDeNegocio\LogicaTiposArticulo.cs" />
@@ -92,6 +93,12 @@
     </Compile>
     <Compile Include="Presentacion\CosultarArticulos.Designer.cs">
       <DependentUpon>CosultarArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\DetallePedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\DetallePedido.Designer.cs">
+      <DependentUpon>DetallePedido.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\RegistrarArticulo.cs">
       <SubType>Form</SubType>
@@ -164,6 +171,9 @@
     <EmbeddedResource Include="Presentacion\CosultarArticulos.resx">
       <DependentUpon>CosultarArticulos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\DetallePedido.resx">
+      <DependentUpon>DetallePedido.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarArticulo.resx">
       <DependentUpon>RegistrarArticulo.cs</DependentUpon>
     </EmbeddedResource>
@@ -178,6 +188,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarTipo.resx">
       <DependentUpon>RegistrarTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistroPedidos.resx">
+      <DependentUpon>RegistroPedidos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\VistaEntregasSA.resx">
       <DependentUpon>VistaEntregasSA.cs</DependentUpon>
