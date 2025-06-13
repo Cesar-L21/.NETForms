@@ -63,11 +63,71 @@
     <Compile Include="LogicaDeNegocio\LogicaPedido.cs" />
     <Compile Include="LogicaDeNegocio\LogicaRepartidor.cs" />
     <Compile Include="LogicaDeNegocio\LogicaTiposArticulo.cs" />
+    <Compile Include="Presentacion\ConsultaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConsultaClientes.Designer.cs">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ConsultaPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConsultaPedidos.Designer.cs">
+      <DependentUpon>ConsultaPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ConsultarRepartidores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConsultarRepartidores.Designer.cs">
+      <DependentUpon>ConsultarRepartidores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ConsultarTipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConsultarTipos.Designer.cs">
+      <DependentUpon>ConsultarTipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CosultarArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CosultarArticulos.Designer.cs">
+      <DependentUpon>CosultarArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarArticulo.Designer.cs">
+      <DependentUpon>RegistrarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarClientes.Designer.cs">
+      <DependentUpon>RegistrarClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\RegistrarMenu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Presentacion\RegistrarMenu.Designer.cs">
       <DependentUpon>RegistrarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarRepartidores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarRepartidores.Designer.cs">
+      <DependentUpon>RegistrarRepartidores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\RegistrarTipo.Designer.cs">
+      <DependentUpon>RegistrarTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\RegistroPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\RegistroPedidos.Designer.cs">
+      <DependentUpon>RegistroPedidos.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\VistaEntregasSA.cs">
       <SubType>Form</SubType>
@@ -92,8 +152,14 @@
     <EmbeddedResource Include="Presentacion\ConsultaElementos.resx">
       <DependentUpon>ConsultaElementos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ConsultarTipos.resx">
+      <DependentUpon>ConsultarTipos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarMenu.resx">
       <DependentUpon>RegistrarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistrarTipo.resx">
+      <DependentUpon>RegistrarTipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\VistaEntregasSA.resx">
       <DependentUpon>VistaEntregasSA.cs</DependentUpon>

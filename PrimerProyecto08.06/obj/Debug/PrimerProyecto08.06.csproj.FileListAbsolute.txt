@@ -24,3 +24,5 @@ C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerPr
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultaElementos.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarMenu.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.VistaEntregasSA.resources
+C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarTipo.resources
+C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultarTipos.resources

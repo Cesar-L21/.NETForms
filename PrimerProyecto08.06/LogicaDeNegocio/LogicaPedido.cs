@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimerProyecto08._06.LogicaDeNegocio
 {
-    internal class LogicaPedido
+    public class LogicaPedido
     {
     }
 }

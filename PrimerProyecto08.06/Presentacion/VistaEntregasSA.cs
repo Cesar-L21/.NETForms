@@ -14,16 +14,20 @@ namespace PrimerProyecto08._06
 {
     public partial class VistaEntregasSA : Form
     {
-        private LogicaTipoArticulo TipoArticulo;
-        private LogicaPedido Pedido;
-        private LogicaCliente cliente;
-        private LogicaRepartidor repartido;
-        private LogicaArticulo articulo;
+        public LogicaTipoArticulo logicaTipoArticulo;
+        public LogicaPedido logicaPedidos;
+        public LogicaCliente logicaCliente;
+        public LogicaRepartidor logicaRepartido;
+        public LogicaArticulo logicaArticulo;
 
         public VistaEntregasSA()
         {
             InitializeComponent();
-            TipoArticulo = new LogicaTipoArticulo();
+            logicaTipoArticulo = new LogicaTipoArticulo();
+            logicaPedidos = new LogicaPedido();
+            logicaCliente = new LogicaCliente();
+            logicaRepartido = new LogicaRepartidor();
+            logicaArticulo = new LogicaArticulo();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,7 +38,7 @@ namespace PrimerProyecto08._06
         private void button1_Click(object sender, EventArgs e)
         {
            
-            var MenuRegistro = new PrimerProyecto08._06.Presentacion.RegistrarMenu();
+            var MenuRegistro = new PrimerProyecto08._06.Presentacion.RegistrarMenu(this);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             MenuRegistro.FormClosed += (s, args) => this.Show();
@@ -54,7 +58,7 @@ namespace PrimerProyecto08._06
         private void button2_Click(object sender, EventArgs e)
         {
 
-            var ConsultaElementos = new PrimerProyecto08._06.Presentacion.ConsultaElementos();
+            var ConsultaElementos = new PrimerProyecto08._06.Presentacion.ConsultaElementos(this);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             ConsultaElementos.FormClosed += (s, args) => this.Show();
