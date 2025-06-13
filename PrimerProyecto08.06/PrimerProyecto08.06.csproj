@@ -63,13 +63,25 @@
     <Compile Include="LogicaDeNegocio\LogicaPedido.cs" />
     <Compile Include="LogicaDeNegocio\LogicaRepartidor.cs" />
     <Compile Include="LogicaDeNegocio\LogicaTiposArticulo.cs" />
-    <Compile Include="Presentacion\Form1.cs">
+    <Compile Include="Presentacion\RegistrarMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Presentacion\RegistrarMenu.Designer.cs">
+      <DependentUpon>RegistrarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\VistaEntregasSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\VistaEntregasSA.Designer.cs">
+      <DependentUpon>VistaEntregasSA.cs</DependentUpon>
     </Compile>
     <Compile Include="LogicaDeNegocio\Program.cs" />
+    <Compile Include="Presentacion\ConsultaElementos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ConsultaElementos.Designer.cs">
+      <DependentUpon>ConsultaElementos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentacion\VistaTipoArticulo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,8 +89,14 @@
       <DependentUpon>VistaTipoArticulo.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Presentacion\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\ConsultaElementos.resx">
+      <DependentUpon>ConsultaElementos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistrarMenu.resx">
+      <DependentUpon>RegistrarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\VistaEntregasSA.resx">
+      <DependentUpon>VistaEntregasSA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\VistaTipoArticulo.resx">
       <DependentUpon>VistaTipoArticulo.cs</DependentUpon>

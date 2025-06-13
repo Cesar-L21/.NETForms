@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PrimerProyecto08._06.Entidades;
 
 namespace PrimerProyecto08._06.Datos
 {

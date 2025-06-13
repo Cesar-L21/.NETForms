@@ -5,6 +5,7 @@
 // Fecha: 09/06/2025
 
 using PrimerProyecto08._06.Datos;
+using PrimerProyecto08._06.Entidades;
 
 namespace PrimerProyecto08._06.Logica
 {

@@ -6,9 +6,9 @@
 // Nombre del estudiante: Esteban
 // Fecha: 09/06/2025
 
-namespace PrimerProyecto08._06.Entidades
+namespace PrimerProyecto08._06.LogicaDeNegocio
 {
-    public class TipoArticulo
+    public class LogicaArticulo
     {
         // Identificador único del tipo de artículo
         public int Id { get; set; }
@@ -20,10 +20,10 @@ namespace PrimerProyecto08._06.Entidades
         public string Descripcion { get; set; }
 
         // Constructor vacío
-        public TipoArticulo() { }
+        public LogicaArticulo() { }
 
         // Constructor con parámetros
-        public TipoArticulo(int id, string nombre, string descripcion)
+        public LogicaArticulo(int id, string nombre, string descripcion)
         {
             Id = id;
             Nombre = nombre;

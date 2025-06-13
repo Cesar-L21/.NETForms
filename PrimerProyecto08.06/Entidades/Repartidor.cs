@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrimerProyecto08._06.Datos
+namespace PrimerProyecto08._06.Entidades
 {
     public class Repartidor
     {
