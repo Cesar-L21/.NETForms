@@ -43,7 +43,7 @@ namespace PrimerProyecto08._06.Presentacion
         private void button2_Click(object sender, EventArgs e)
         {
 
-            var vistaArticulos = new PrimerProyecto08._06.Presentacion.RegistrarArticulo();
+            var vistaArticulos = new PrimerProyecto08._06.Presentacion.RegistrarArticulo(VistaEntregas.logicaArticulo,VistaEntregas.logicaTipoArticulo);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaArticulos.FormClosed += (s, args) => this.Show();
@@ -59,7 +59,7 @@ namespace PrimerProyecto08._06.Presentacion
         private void button3_Click(object sender, EventArgs e)
         {
 
-            var vistaClientes = new PrimerProyecto08._06.Presentacion.RegistrarClientes();
+            var vistaClientes = new PrimerProyecto08._06.Presentacion.RegistrarClientes(VistaEntregas.logicaCliente);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaClientes.FormClosed += (s, args) => this.Show();

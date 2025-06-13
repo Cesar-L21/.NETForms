@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PrimerProyecto08._06.Logica;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -40,7 +41,7 @@ namespace PrimerProyecto08._06.Presentacion
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var vistaConsultaArticulos = new PrimerProyecto08._06.Presentacion.CosultarArticulos();
+            var vistaConsultaArticulos = new PrimerProyecto08._06.Presentacion.CosultarArticulos(EntregasSA.logicaArticulo);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaConsultaArticulos.FormClosed += (s, args) => this.Show();
@@ -54,7 +55,7 @@ namespace PrimerProyecto08._06.Presentacion
 
         private void button3_Click(object sender, EventArgs e)
         {
-            var vistaConsultaClientes = new PrimerProyecto08._06.Presentacion.ConsultaClientes();
+            var vistaConsultaClientes = new PrimerProyecto08._06.Presentacion.ConsultaClientes(EntregasSA.logicaCliente);
 
             // Cuando la ventana VistaTipoArticulo se cierre, mostrar Form1 de nuevo
             vistaConsultaClientes.FormClosed += (s, args) => this.Show();

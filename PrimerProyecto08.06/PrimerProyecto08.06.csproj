@@ -149,11 +149,23 @@
       <DependentUpon>VistaTipoArticulo.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\ConsultaClientes.resx">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\ConsultaElementos.resx">
       <DependentUpon>ConsultaElementos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\ConsultarTipos.resx">
       <DependentUpon>ConsultarTipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\CosultarArticulos.resx">
+      <DependentUpon>CosultarArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistrarArticulo.resx">
+      <DependentUpon>RegistrarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\RegistrarClientes.resx">
+      <DependentUpon>RegistrarClientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\RegistrarMenu.resx">
       <DependentUpon>RegistrarMenu.cs</DependentUpon>

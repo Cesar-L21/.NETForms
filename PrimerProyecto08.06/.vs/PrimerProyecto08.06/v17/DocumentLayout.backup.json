@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultartipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultartipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultartipos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultartipos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\logicadenegocio\\logicatiposarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:logicadenegocio\\logicatiposarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\vistaentregassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\vistaentregassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\vistaentregassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\vistaentregassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\vistatipoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\vistatipoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|c:\\users\\v-celopez\\desktop\\.net\\.netforms\\primerproyecto08.06\\presentacion\\consultartipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{09019E83-06FD-4F3C-A481-92F19B96C95B}|PrimerProyecto08.06.csproj|solutionrelative:presentacion\\consultartipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,112 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsultarTipos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.Designer.cs",
-              "RelativeDocumentMoniker": "Presentacion\\ConsultarTipos.Designer.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.Designer.cs*",
-              "RelativeToolTip": "Presentacion\\ConsultarTipos.Designer.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:20:54.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogicaTiposArticulo.cs",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\LogicaDeNegocio\\LogicaTiposArticulo.cs",
-              "RelativeDocumentMoniker": "LogicaDeNegocio\\LogicaTiposArticulo.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\LogicaDeNegocio\\LogicaTiposArticulo.cs",
-              "RelativeToolTip": "LogicaDeNegocio\\LogicaTiposArticulo.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:18:29.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsultaElementos.cs",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultaElementos.cs",
-              "RelativeDocumentMoniker": "Presentacion\\ConsultaElementos.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultaElementos.cs*",
-              "RelativeToolTip": "Presentacion\\ConsultaElementos.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:16:42.073Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VistaEntregasSA.cs",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaEntregasSA.cs",
-              "RelativeDocumentMoniker": "Presentacion\\VistaEntregasSA.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaEntregasSA.cs*",
-              "RelativeToolTip": "Presentacion\\VistaEntregasSA.cs*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwDwAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:16:32.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VistaEntregasSA.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaEntregasSA.cs",
-              "RelativeDocumentMoniker": "Presentacion\\VistaEntregasSA.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaEntregasSA.cs [Design]*",
-              "RelativeToolTip": "Presentacion\\VistaEntregasSA.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:16:31.523Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VistaTipoArticulo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaTipoArticulo.cs",
-              "RelativeDocumentMoniker": "Presentacion\\VistaTipoArticulo.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\VistaTipoArticulo.cs [Design]",
-              "RelativeToolTip": "Presentacion\\VistaTipoArticulo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:14:57.089Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsultarTipos.cs",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.cs",
-              "RelativeDocumentMoniker": "Presentacion\\ConsultarTipos.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.cs*",
-              "RelativeToolTip": "Presentacion\\ConsultarTipos.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:13:43.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConsultarTipos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.cs",
-              "RelativeDocumentMoniker": "Presentacion\\ConsultarTipos.cs",
-              "ToolTip": "C:\\Users\\v-celopez\\Desktop\\.NET\\.NETForms\\PrimerProyecto08.06\\Presentacion\\ConsultarTipos.cs [Design]*",
-              "RelativeToolTip": "Presentacion\\ConsultarTipos.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:13:27.443Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
