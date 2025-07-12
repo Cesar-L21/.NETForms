@@ -32,3 +32,27 @@ C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerPr
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarClientes.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarRepartidores.resources
 C:\Users\v-celopez\Desktop\.NET\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultarRepartidores.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\bin\Debug\PrimerProyecto08.06.exe.config
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\bin\Debug\PrimerProyecto08.06.exe
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\bin\Debug\PrimerProyecto08.06.pdb
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.exe.config
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultaClientes.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultaElementos.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultarRepartidores.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.ConsultarTipos.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.CosultarArticulos.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.DetallePedido.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarArticulo.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarClientes.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarMenu.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarRepartidores.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistrarTipo.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.RegistroPedidos.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.VistaEntregasSA.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Presentacion.VistaTipoArticulo.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08._06.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.exe
+C:\Users\cesar\OneDrive\Desktop\Proyectos .NET\FormsTienda\.NETForms\PrimerProyecto08.06\obj\Debug\PrimerProyecto08.06.pdb
